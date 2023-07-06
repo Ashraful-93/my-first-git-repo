@@ -1,3 +1,20 @@
 p{
     background-color: aqua;
 }
+
+div{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    color: yellow;
+    font-size: 40px;
+    margin: 20px;
+}
+
+li{
+    color: violet;
+    font-size: 25px;
+    padding: 5px;
+    background-color: aquamarine;
+}

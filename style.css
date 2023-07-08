@@ -113,18 +113,15 @@
 
 /* This is service section  */
 .our-service{
-    height: 70vh;
+    height: 75vh;
     background:linear-gradient(45deg, rgb(12, 11, 11), rgb(0, 0, 0));
 }
 
-.our-service-title h1{
+.our-service > h1{
     color: white;
     text-align: center;
-}
-
-.our-service-title h1{
-    margin-top: 100px;
     font-size: 40px;
+    padding-top: 20px;
 }
 
 .service-container{

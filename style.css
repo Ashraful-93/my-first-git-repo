@@ -4,6 +4,10 @@
 }
 /* Header Section */
 
+body{
+    width: 100%;
+}
+
 .menu-container{
     background-color: rgb(36, 41, 41);
     padding: 15px;
@@ -29,12 +33,18 @@
 
 .item{
     margin-right: 15px;
-    font-size: 20px;
     padding: 7px;
+    font-size: 18px;
 }
 
 .item:hover{
     color: rgb(149, 144, 172);
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
 }
 
 /* Banner section */
